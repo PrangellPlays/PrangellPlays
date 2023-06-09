@@ -8,8 +8,6 @@ I am 15 and currently studying computer science and coding! 📖
 
 I love to work on minecraft mods and games as well
 
-I am an active developer on the community and friends with Skynovic
-
 I am the CEO and Co-Founder Of RebelCraft
 
 I Also am one of the 3 Founders of Exclusives MC
