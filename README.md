@@ -11,3 +11,5 @@ I love to work on minecraft mods and games as well
 I am the CEO and Co-Founder Of RebelCraft
 
 I Also am one of the 3 Founders of Exclusives MC
+
+![PrangellPlays GitHub stats](https://github-readme-stats.vercel.app/api?username=prangellplays&show_icons=true&theme=midnight-purple)
