@@ -1,13 +1,13 @@
-Hey im PrangellPlays 👋
+# Hey im Prangell
 
-I am a British game developer and programmer 💻
+I am an English game developer and programmer
 
-I typically work on the Minecraft side of developing and programming
+I work on a wide range of projects on both backend and frontend develeopment utilising languages such as Java, C#, Java Script, Alpine.js and more!
 
-I am 17 and currently studying game design! 📖
+I also use Figma for UI design and Aseprite for pixel art
 
-I love to work on minecraft mods and games as well
+I have tons of pinned projects featured, but my favourite has to be [LLGDragons: Re-Fabricated](https://github.com/PrangellPlays/LLGDragons_ReFabricated)
 
-I am the CEO and Co-Founder Of @LuminaEclipse
+I have 40+ public repositories with even more that are private
 
-![PrangellPlays's GitHub stats](https://github-readme-stats.vercel.app/api?username=prangellplays&theme=midnight-purple&show_icons=true)
+
