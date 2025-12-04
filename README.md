@@ -10,4 +10,4 @@ I have tons of pinned projects featured, but my favourite has to be [LLGDragons:
 
 I have 40+ public repositories with even more that are private
 
-
+[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
