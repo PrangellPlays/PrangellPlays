@@ -6,7 +6,7 @@ I work on a wide range of projects on both backend and frontend develeopment uti
 
 I also use Figma for UI design and Aseprite for pixel art
 
-I have tons of pinned projects featured, but my favourite has to be [LLGDragons: Re-Fabricated](https://github.com/PrangellPlays/LLGDragons_ReFabricated)
+I have tons of pinned projects featured, but my favourite has to be [Ley Lines](https://github.com/PrangellPlays/LeyLines)
 
 I have 40+ public repositories with even more that are private
 
